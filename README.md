@@ -1,1 +1,1 @@
-#Read me added
+# home section and  degined animated text 
